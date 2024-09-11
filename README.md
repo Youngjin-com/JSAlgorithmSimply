@@ -1,6 +1,6 @@
 # 쉽게 설명한 자바스크립트 알고리즘
 
-<img src="https://www.youngjin.com/images/book_cover/9788931477252.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931477252.png" height="350px" style="border: 2px solid grey;">
 
 [쉽게 설명한 자바스크립트 알고리즘
  (영진닷컴)](https://blog.naver.com/ydot/223510485096)
